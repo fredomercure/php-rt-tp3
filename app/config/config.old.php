@@ -5,7 +5,7 @@ return array(
 			"type"=>"mysql",
 			"dbName"=>"messagerie",
 			"serverName"=>"127.0.0.1",
-			"port"=>3306,
+			"port"=>3305,
 			"user"=>"root",
 			"password"=>"",
 			"options"=>array(),
